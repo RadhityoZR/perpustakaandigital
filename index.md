@@ -1,6 +1,6 @@
 # Digital Library
 
-### Selamat Datang di Digital Library
+### Selamat Datang di Digital Library by Radhityo Zaky Risnadhi (13040124130056) Class B
 
 Temukan dunia pengetahuan melalui koleksi buku digital yang tersedia di sini. Digital Library hadir sebagai ruang baca daring yang memudahkan Anda mengakses berbagai sumber bacaan, mulai dari karya sastra klasik hingga referensi akademik.
 

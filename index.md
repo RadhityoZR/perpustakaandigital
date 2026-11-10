@@ -20,7 +20,7 @@ Jelajahi berbagai koleksi buku yang tersedia di Digital Library berikut ini.
 8. [The Count of Monte Cristo](ebook/The%20Count%20of%20Monte%20Cristo%20_%20Project%20Gutenberg.pdf)
 9. [The Legend of Sleepy Hollow](ebook/The%20Legend%20of%20Sleepy%20Hollow%20_%20Project%20Gutenberg.pdf)
 10. [The Great Gatsby](ebook/The%20Project%20Gutenberg%20eBook%20of%20The%20Great%20Gatsby.pdf)
-11. [Ringkasan UGC: Transforming Libraries Through Information Technology - Radhityo](ebook/Ringkasan%20UGC%20Transforming%20Libraries%20Trough%20Information%20Technology_Radhityo%28056%29.pdf)
+11. [Ringkasan UGC: Transforming Libraries Through Information Technology - Radhityo](ebook/Ringkasan%20UGC%20Transforming%20Libraries%20Trough%20Information%20Technology_Radhityo%28056%29B.pdf)
 
 ---
 
